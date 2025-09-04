@@ -1,7 +1,7 @@
 
 body {
     font-family: Arial, sans-serif;
-    background: url(img/back-img3.jpg);
+    background: url("./img/back-img3.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -82,3 +82,4 @@ li:hover {
     padding: 4px 8px;
     cursor: pointer;
 }
+
